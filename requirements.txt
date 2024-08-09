@@ -3,3 +3,4 @@ pandas==2.2.2
 plotly==5.22.0
 streamlit==1.33.0
 mysql==0.0.3
+mysql-connector-python==9.0.0
